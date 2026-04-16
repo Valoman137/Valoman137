@@ -101,7 +101,7 @@ Currently improving my problem-solving, backend skills and software architecture
        onmouseout="this.style.transform='scale(1)'"/>
 </a>
 
-<a href="https://www.linkedin.com/in/miguel-sierra/" target="_blank">
+<a href="https://www.linkedin.com/in/miguel-oswaldo-sierra-capetillo-9261112a1/" target="_blank">
   <img src="https://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png" width="40"
        style="transition: transform 0.2s; display:inline-block; margin: 0 10px;"
        onmouseover="this.style.transform='scale(1.15)'"
