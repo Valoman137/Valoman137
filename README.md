@@ -12,17 +12,47 @@ Me enfoco en crear soluciones tecnológicas claras, funcionales y bien estructur
 
 # Tech Stack
 
-## Languages
-JavaScript • Python • Java • C++
+<table>
+<tr>
+<td valign="top" width="33%">
 
-## Web
-HTML • CSS • React • Node.js
+### Frontend
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB"/>
+</p>
 
-## Databases
-MySQL • SQL Server • SQLite
+</td>
+<td valign="top" width="33%">
 
-## Tools
-Git • GitHub • Linux • Notion
+### Backend
+<p>
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+</p>
+
+</td>
+<td valign="top" width="33%">
+
+### Databases & Tools
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-07405e?style=flat&logo=sqlite&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
