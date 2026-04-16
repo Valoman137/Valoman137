@@ -3,10 +3,32 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Miguel%20Sierra&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-# About Me
-Estudiante de Ingeniería en Informática en la UPIICSA y desarrollador full-stack en formación.
+<!-- TYPING -->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=28&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Miguel+Sierra;Backend+Focused+Developer;Informatics+Engineering+Student" />
+</p>
 
-Me enfoco en crear soluciones tecnológicas claras, funcionales y bien estructuradas, con especial interés en el desarrollo web y en proyectos aplicados a PyMES. Me gusta comprender cómo funcionan los sistemas completos y mejorar continuamente mediante práctica y análisis.
+# About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+Informatics Engineering student at UPIICSA and full-stack developer in training.
+
+I focus on building clear, functional and well-structured technological solutions, with a special interest in web development and software designed for small and medium-sized businesses.
+
+Currently improving my problem-solving, backend skills and software architecture through real, hands-on projects.
+
+</td>
+
+<td width="40%" align="right">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="220"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -65,4 +87,35 @@ Me enfoco en crear soluciones tecnológicas claras, funcionales y bien estructur
 ---
 
 # Contact
-valoman137@hotmail.com
+
+<p align="center">
+
+<a href="mailto:valoman137@hotmail.com">
+  <img src="https://img.icons8.com/ios-filled/50/FFFFFF/email.png" width="40"
+       style="transition: transform 0.2s; display:inline-block; margin: 0 10px;"
+       onmouseover="this.style.transform='scale(1.15)'"
+       onmouseout="this.style.transform='scale(1)'"/>
+</a>
+
+<a href="https://www.linkedin.com/in/miguel-sierra/" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png" width="40"
+       style="transition: transform 0.2s; display:inline-block; margin: 0 10px;"
+       onmouseover="this.style.transform='scale(1.15)'"
+       onmouseout="this.style.transform='scale(1)'"/>
+</a>
+
+<a href="https://github.com/valoman137" target="_blank">
+  <img src="https://img.icons8.com/ios-glyphs/50/FFFFFF/github.png" width="40"
+       style="transition: transform 0.2s; display:inline-block; margin: 0 10px;"
+       onmouseover="this.style.transform='scale(1.15)'"
+       onmouseout="this.style.transform='scale(1)'"/>
+</a>
+
+<a href="https://miguel-sierra.dev" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/FFFFFF/domain.png" width="40"
+       style="transition: transform 0.2s; display:inline-block; margin: 0 10px;"
+       onmouseover="this.style.transform='scale(1.15)'"
+       onmouseout="this.style.transform='scale(1)'"/>
+</a>
+
+</p>
